@@ -1,0 +1,22 @@
+header {
+    text-align: left;
+    background-color: rebeccapurple;
+}
+
+h1 {
+    color:blue
+}
+h2 {
+    color:peru
+}
+img {
+    box-shadow: 10px 10px 5px black;
+}
+
+p {
+    font-size: 25px;
+}
+
+ul {
+    border-style: solid;
+}
